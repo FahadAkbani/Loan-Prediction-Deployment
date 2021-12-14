@@ -5,7 +5,7 @@ import pickle
 import numpy as np
 import config
 
-#fahad
+
 
 app = Flask(__name__)
 
