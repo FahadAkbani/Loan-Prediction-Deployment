@@ -5,6 +5,8 @@ import pickle
 import numpy as np
 import config
 
+#fahad
+
 app = Flask(__name__)
 
 model = pickle.load(open('model1.pkl','rb'))
